@@ -8,7 +8,7 @@
 Imteyazking01/Imteyazking01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-          Contact me
-mdimteyazm72@gmail.com
+          💌Contact me
+       mdimteyazm72@gmail.com
 
 https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif
