@@ -15,7 +15,7 @@ https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif
 
 https://telegra.ph/file/1e6dac2c0323c1d1e46ca.jpg
 ​
-import json
+ import json
 from dataclasses import asdict, dataclass
 
 
