@@ -38,7 +38,6 @@
 [<img align="left" alt="Linux" width="26px" src="https://www.freepnglogos.com/uploads/linux-png/difference-between-linux-and-window-operating-system-3.png" />](https://www.linux.org/)
 [<img align="left" alt="Ubuntu" width="26px" src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" />](https://www.ubuntu.com)
 [<img align="left" alt="Heroku" width="26px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png" />](https://heroku.com/)
-[<img aling="left" apt="YouTube" wwidth="26PX" src=https:/www.wowpng.com/png/full/238-2346664_youtube-logo-sales force-youtube.png" />](https://youtube.com/)
 <br />
 <br />
 
