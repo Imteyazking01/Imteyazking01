@@ -28,7 +28,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imteyazking01&layout=compact&theme=radical)](https://github.com/Imteyazking01)
 
-https://telegra.ph/file/3de235fe013a4ec9b5bd8.jpg
+Dp https://telegra.ph/file/3de235fe013a4ec9b5bd8.jpg
 ### Languages and Tools I Love ❤️
 
 
@@ -43,7 +43,7 @@ https://telegra.ph/file/3de235fe013a4ec9b5bd8.jpg
 
 ​
  
-
+https://telegra.ph/file/3de235fe013a4ec9b5bd8.jpg
 
 
 
