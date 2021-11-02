@@ -26,7 +26,7 @@
 ![Imteyazking01 Git Stats](https://github-readme-stats.vercel.app/api?username=Imteyazking&include_all_commits=true&count_private=true&theme=highcontrast)
 
 
-[![Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/?username=Imteyazking01&layout=compact&theme=radical)](https://github.com/Imteyazking01
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imteyazking01&layout=compact&theme=radical)](https://github.com/Imteyazking01
 
 ### Languages and Tools I Love ❤️
 
